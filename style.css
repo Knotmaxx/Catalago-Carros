@@ -42,7 +42,7 @@ body {
   background-color: #ffd700;
 }
 p{ 
-  font-size: clamp(0.8rem,1vw,1rem);
+  font-size: clamp(1rem,1.2vw,1.2rem);
 }
 .bg-smoke{
   background-color: whitesmoke;
